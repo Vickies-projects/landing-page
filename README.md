@@ -1,6 +1,6 @@
 # Digi Hub – Contact Us Page
 
-A modern and responsive "Contact Us" page built with HTML, CSS, and JavaScript for **Digi Hub**, a frontend web development company. The form allows users to get in touch via a simple interface, integrated with [FormSubmit](https://formsubmit.io/) to handle form submissions without a backend.
+A modern and responsive "Contact Us" page built with HTML, CSS, and JavaScript for **Digi Hub**, a frontend web development company. The form allows users to get in touch via a simple interface, integrated with FormSubmit to handle form submissions without a backend.
 
 ---
 
