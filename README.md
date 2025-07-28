@@ -6,7 +6,7 @@ A modern and responsive "Contact Us" page built with HTML, CSS, and JavaScript f
 
 ## 🔗 View Live Website
 
-👉 [Click here to view the live site]()
+👉 [Click here to view the live site](https://vickies-projects.github.io/landing-page/)
 
 ---
 
