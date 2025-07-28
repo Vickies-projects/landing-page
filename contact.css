@@ -9,7 +9,7 @@
         body{
             background: 
             linear-gradient(rgba(0, 102, 255, 0.6), rgba(0, 208, 132, 0.6)),
-            url(../images/background.avif) no-repeat center center / cover fixed;
+            url(background.avif) no-repeat center center / cover fixed;
             color: rgb(188, 190, 190);
             font-family: 'Poppins', sans-serif;
             font-size: clamp(1.6rem, 2vw, 2.5rem);
@@ -55,7 +55,7 @@
         }
 
         .contact-header{
-            background: url(../images/background2.avif) no-repeat center center / cover fixed;
+            background: url(background2.avif) no-repeat center center / cover fixed;
             align-self: flex-start;
             color: rgb(19, 15, 15);
         }
